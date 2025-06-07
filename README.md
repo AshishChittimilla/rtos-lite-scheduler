@@ -45,7 +45,7 @@ rtos-lite-scheduler/
 ```
 
 ## 📷 Screenshots / Diagrams
-Add oscilloscope traces, architecture diagrams, or UART output here.
+Add oscilloscope traces, architecture diagrams, or UART output here (optional).
 
 ## 📝 License
 MIT
